@@ -1,2 +1,2 @@
 # git-workshop
-Studying git 
+Studying [git] (morning.md)
